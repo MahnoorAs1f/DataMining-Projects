@@ -1,0 +1,478 @@
+ Age,   Gender,  province,  Occupation, type of content,hours ,platform,emotional response,impact on sleep,FOMO (fear of missing out),cyberbullying,social comparison  ,addiction rate,no of platforms,social life enhancement,sleep loss
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",1-2 hour,Instagram,YES,Slightly worsened,Frequently,NO,Frequently,4 (Very addicted),2,3,1.5 hours
+18-24,Female,Rawalpindi,Student,"Entertainment (videos, memes, etc.)",7-9 hour,TikTok,YES,Slightly improved,Never,NO,Frequently,5 (extremely addicted),4,3,6
+18-24,Male,Taxila,Student,"Entertainment (videos, memes, etc.)",1-2 hour,"Instagram, Twitter, TikTok, Snapchat, Youtube, Facebook",NO,No impact,Frequently,NO,Occasionally,2 (Slightly addicted),4,5,24 hours
+18-24,Female,Islamabad,Student,News and current events,1-2 hour,"Instagram, TikTok",YES,No impact,Rarely,NO,Rarely,3 (Moderately addicted),2,3,0
+18-24,Female,Taxila,Student,"Entertainment (videos, memes, etc.)",3-4 hour,Youtube,YES,Slightly worsened,Rarely,YES,Rarely,3 (Moderately addicted),2,3,21
+18-24,Male,Rawalpindi,Student,Educational or informative content,5-6 hour,Instagram,NO,Slightly worsened,Occasionally,NO,Rarely,3 (Moderately addicted),more than 5,4,5
+18-24,Male,punjab,Student,"Entertainment (videos, memes, etc.)",1-2 hour,"Instagram, Snapchat",NO,Significantly improved,Frequently,YES,Occasionally,2 (Slightly addicted),2,3,5
+18-24,Male,Rawalpindi,Student,"Entertainment (videos, memes, etc.)",7-9 hour,"Instagram, Twitter, TikTok, Snapchat, Youtube, Facebook",YES,Slightly worsened,Frequently,NO,Rarely,4 (Very addicted),3,5,26
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"TikTok, Youtube",NO,Slightly worsened,Rarely,NO,Occasionally,3 (Moderately addicted),3,3,2
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",1-2 hour,Youtube,NO,Significantly worsened,Occasionally,NO,Occasionally,2 (Slightly addicted),2,5,8
+18-24,Female,Wah,Student,Professional or networking content,3-4 hour,Instagram,NO,Slightly worsened,Never,NO,Rarely,3 (Moderately addicted),2,3,2
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",1-2 hour,Instagram,YES,Slightly worsened,Rarely,YES,Never,3 (Moderately addicted),more than 5,3,2-Jan
+18-24,Female,Rawalpindi,Student,"Entertainment (videos, memes, etc.)",5-6 hour,"Instagram, Snapchat",YES,Slightly worsened,Occasionally,NO,Occasionally,3 (Moderately addicted),3,3,5
+18-Nov,Female,Wah,Student,"Entertainment (videos, memes, etc.)",1-2 hour,TikTok,YES,No impact,Occasionally,NO,Never,1 (Not addicted at all),2,0,Probably 0
+18-24,Female,Wah,Student,Educational or informative content,5-6 hour,"Instagram, TikTok, Youtube, Facebook",YES,Slightly improved,Never,NO,Never,2 (Slightly addicted),3,3,5
+18-Nov,Female,Wah,Student,Professional or networking content,7-9 hour,Instagram,NO,Significantly worsened,Never,NO,Never,4 (Very addicted),4,3,2-3 hours 
+34-54,Female,Islamabad,unemployed,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, TikTok, Facebook",NO,Slightly worsened,Never,NO,Never,3 (Moderately addicted),3,3,10 to 15
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",5-6 hour,"Instagram, TikTok",YES,Slightly worsened,Occasionally,NO,Frequently,5 (extremely addicted),3,3,20
+18-24,Female,Rawalpindi,Student,Professional or networking content,7-9 hour,Youtube,YES,Slightly worsened,Rarely,NO,Never,3 (Moderately addicted),2,3,16
+24-34,Female,Islamabad,Employed,Educational or informative content,5-6 hour,"Instagram, TikTok, ",NO,No impact,Rarely,NO,Rarely,3 (Moderately addicted),3,3,7
+24-34,Female,AJK,Employed,"Entertainment (videos, memes, etc.)",7-9 hour,"Instagram, TikTok",YES,Slightly worsened,Rarely,NO,Occasionally,4 (Very addicted),3,0,12
+18-24,Female,Wah,Student,Educational or informative content,5-6 hour,Youtube,YES,No impact,Frequently,NO,Never,1 (Not addicted at all),2,3,8 hours 
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",5-6 hour,Instagram,YES,Slightly worsened,Rarely,YES,Occasionally,3 (Moderately addicted),4,3,5-Apr
+18-Nov,Female,Wah,Student,"Entertainment (videos, memes, etc.)",1-2 hour,Youtube,NO,No impact,Never,NO,Never,1 (Not addicted at all),1,5,1 hour
+18-24,Male,Wah,Employed,News and current events,1-2 hour,"Instagram, Twitter, Youtube, Facebook",NO,Slightly worsened,Rarely,NO,Rarely,4 (Very addicted),3,3,1
+24-34,Female,Wah,House wife,"Entertainment (videos, memes, etc.)",7-9 hour,TikTok,No,No impact,Never,Prefer not to say,Never,1 (Not addicted at all),2,3,5 hours 
+18-24,Male,Wah,Student,"Entertainment (videos, memes, etc.)",7-9 hour,"Instagram, TikTok, Snapchat",YES,Slightly worsened,Occasionally,NO,Occasionally,4 (Very addicted),4,3,18
+24-34,Female,Rawalpindi,unemployed,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, Youtube",NO,Slightly worsened,Occasionally,NO,Occasionally,3 (Moderately addicted),3,3,10
+18-24,Male,Wah,Student,Professional or networking content,3-4 hour,TikTok,YES,Slightly improved,Frequently,Prefer not to say,Occasionally,4 (Very addicted),3,3,2
+18-24,Female,Rawalpindi,Student,"Entertainment (videos, memes, etc.)",7-9 hour,"Instagram, TikTok, Snapchat, Youtube",YES,Slightly worsened,Frequently,NO,Never,4 (Very addicted),more than 5,5,21
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",3-4 hour,TikTok,YES,No impact,Frequently,NO,Occasionally,5 (extremely addicted),3,5,5 hours
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",5-6 hour,"Instagram, Snapchat",YES,Slightly worsened,Never,NO,Rarely,3 (Moderately addicted),2,3,6-7 ig
+18-24,Female,Taxila ,unemployed,"Entertainment (videos, memes, etc.)",7-9 hour,"Instagram, Snapchat, Youtube",YES,Significantly worsened,Occasionally,NO,Occasionally,5 (extremely addicted),4,3,42
+18-Nov,Female,AJK,AJK,Educational or informative content,5-6 hour,YouTube Snapchat ,NO,Slightly improved,Never,NO,Never,2 (Slightly addicted),3,3,7 to 8 hours every week 
+18-24,Male,Wah,Student,"Entertainment (videos, memes, etc.)",1-2 hour,Youtube,YES,Significantly worsened,Never,NO,Never,4 (Very addicted),4,3,7 to 8 hours per week 
+24-34,Female,Wah,Student,Professional or networking content,3-4 hour,Youtube,NO,No impact,Never,NO,Never,1 (Not addicted at all),2,3,3
+18-24,Male,Wah,unemployed,"Entertainment (videos, memes, etc.)",1-2 hour,"Instagram, Snapchat, Youtube, Facebook",NO,No impact,Never,NO,Rarely,3 (Moderately addicted),4,3,0
+24-34,Male,Islamabad,unemployed,Professional or networking content,3-4 hour,"Instagram, TikTok, Youtube, Facebook",NO,No impact,Rarely,NO,Never,5 (extremely addicted),3,5,8
+18-24,Male,Wah,Student,News and current events,3-4 hour,"Instagram, TikTok, Youtube, Facebook",NO,Slightly worsened,Occasionally,NO,Rarely,3 (Moderately addicted),4,3,Dont know 
+18-24,Male,Wah,unemployed,"Entertainment (videos, memes, etc.)",7-9 hour,"Instagram, TikTok, Facebook",YES,Significantly worsened,Occasionally,NO,Frequently,5 (extremely addicted),more than 5,5,25
+18-24,Female,Kotli,Student,"Entertainment (videos, memes, etc.)",5-6 hour,TikTok,YES,Slightly worsened,Frequently,NO,Rarely,2 (Slightly addicted),3,2,Almost 36-40
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"TikTok, Snapchat, Youtube",NO,No impact,Never,NO,Never,2 (Slightly addicted),3,1,No loss of Sleep 
+18-24,Female,AJK,Student,"Entertainment (videos, memes, etc.)",5-6 hour,TikTok,YES,Slightly worsened,Frequently,NO,Rarely,2 (Slightly addicted),3,3,36-40
+24-34,Female,AJ&K,Student,Educational or informative content,3-4 hour,Youtube,NO,Slightly worsened,Occasionally,NO,Rarely,3 (Moderately addicted),3,1,7
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, Snapchat, Youtube",NO,Significantly worsened,Never,NO,Never,2 (Slightly addicted),3,3,10 hours 
+18-24,Female,Wah,Employed,"Entertainment (videos, memes, etc.)",5-6 hour,Youtube,NO,Slightly worsened,Rarely,YES,Never,3 (Moderately addicted),3,3,No idea
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",3-4 hour,TikTok,NO,Slightly worsened,Frequently,NO,Never,1 (Not addicted at all),2,3,6
+18-24,Male,Haripur Hazara,Student,Educational or informative content,5-6 hour,TikTok,NO,Slightly worsened,Rarely,NO,Rarely,2 (Slightly addicted),4,1,0%
+18-Nov,Female,uae,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, Youtube",yes,Slightly worsened,Frequently,Prefer not to say,Occasionally,3 (Moderately addicted),3,2,idk ??
+18-24,Male,Wah,Student,Educational or informative content,5-6 hour,Youtube,NO,No impact,Never,NO,Never,1 (Not addicted at all),more than 5,3,2
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, TikTok, Snapchat, Youtube",YES,Significantly worsened,Rarely,NO,Occasionally,4 (Very addicted),4,3,5
+18-24,Male,Wah,Employed,"Entertainment (videos, memes, etc.)",1-2 hour,"Instagram, Snapchat, Youtube, Facebook",NO,No impact,Never,NO,Never,1 (Not addicted at all),2,5,2-Jan
+18-24,Male,Wah,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, TikTok, Snapchat, Youtube, Facebook",YES,Slightly worsened,Occasionally,NO,Occasionally,4 (Very addicted),more than 5,3,20-Oct
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",7-9 hour,Instagram,YES,Slightly improved,Rarely,NO,Never,2 (Slightly addicted),4,3,0 hour
+18-24,Male,Wah,Student,Educational or informative content,3-4 hour,Youtube,NO,No impact,Never,NO,Never,1 (Not addicted at all),2,3,2
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",7-9 hour,Instagram,YES,Slightly worsened,Rarely,NO,Occasionally,4 (Very addicted),2,5, 4 to 5 hours
+18-24,Male,Wah,Student,Professional or networking content,1-2 hour,Instagram,YES,Slightly worsened,Occasionally,YES,Occasionally,2 (Slightly addicted),more than 5,4,14
+18-24,Male,Wah,Student,Educational or informative content,5-6 hour,"Instagram, Twitter, Youtube, Facebook",YES,Slightly worsened,Frequently,NO,Occasionally,3 (Moderately addicted),3,5,10hrs
+18-24,Female,Wah,Student,Educational or informative content,1-2 hour,Youtube,NO,Significantly worsened,Never,NO,Rarely,1 (Not addicted at all),1,1,4-Mar
+18-24,Female,Rawalpindi,Employed,Professional or networking content,3-4 hour,Instagram,YES,No impact,Frequently,NO,Frequently,2 (Slightly addicted),2,3,7-Jun
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",5-6 hour,"Instagram, TikTok, Snapchat, Youtube",NO,Significantly worsened,Rarely,NO,Frequently,4 (Very addicted),4,3,5
+18-24,Male,Wah,Student,Educational or informative content,3-4 hour,"Instagram, Youtube",YES,Significantly worsened,Frequently,NO,Occasionally,1 (Not addicted at all),2,1,3
+18-24,Male,Wah,Student,Educational or informative content,1-2 hour,Youtube,YES,No impact,Never,NO,Never,1 (Not addicted at all),2,3,2
+18-24,Female,Karachi,Student,"Entertainment (videos, memes, etc.)",5-6 hour,"Instagram, Youtube",YES,No impact,Rarely,NO,Rarely,4 (Very addicted),1,3,7
+18-24,Female,Islamabad,Student,Educational or informative content,1-2 hour,Youtube,NO,Slightly worsened,Frequently,NO,Never,3 (Moderately addicted),3,3,4 hours
+18-24,Male,KPK,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, TikTok, Snapchat, Youtube, Facebook",NO,No impact,Frequently,NO,Occasionally,3 (Moderately addicted),more than 5,3,No loss
+18-24,Male,Wah,Student,"Entertainment, Educational, professional ",5-6 hour,"Instagram, Youtube, Facebook",NO,Slightly worsened,Never,NO,Never,2 (Slightly addicted),2,3,Minimum 14 hours
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, Snapchat, Youtube",YES,Significantly worsened,Occasionally,NO,Rarely,3 (Moderately addicted),2,3,12
+18-24,Female,Wah,Student,Educational or informative content,5-6 hour,Instagram,NO,Slightly worsened,Frequently,NO,Never,3 (Moderately addicted),3,3,3-Feb
+18-24,Female,Peekaboo ,Student,"Entertainment (videos, memes, etc.)",5-6 hour,Snapchat,NO,Slightly worsened,Never,NO,Never,4 (Very addicted),2,3,Many idk never counted 
+18-24,Male,Wah,Student,News and current events,1-2 hour,"Instagram, Twitter",NO,Slightly worsened,Never,YES,Rarely,4 (Very addicted),more than 5,5,Half hr
+18-24,Male,Wah,Employed,Professional or networking content,1-2 hour,Twitter,NO,No impact,Never,NO,Never,1 (Not addicted at all),1,1,0
+18-24,Male,Wah,Student,"Entertainment (videos, memes, etc.)",1-2 hour,"Instagram, TikTok",YES,No impact,Frequently,YES,Never,2 (Slightly addicted),2,4,12 hours sleep session distrubed cuz of my work related to cars bcz have to visit diff places to buy a car and spend most of time in work shops to make my car look pretty so thats the wastage of time but its not meaning less??
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",5-6 hour,"Instagram, TikTok, Youtube, Facebook",NO,No impact,Occasionally,NO,Rarely,1 (Not addicted at all),1,3,4-Mar
+18-24,Male,Rawalpindi,Student,"Entertainment (videos, memes, etc.)",1-2 hour,Instagram,NO,Slightly worsened,Never,NO,Rarely,2 (Slightly addicted),more than 5,3,No
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, Snapchat, Youtube",YES,Slightly worsened,Occasionally,NO,Rarely,4 (Very addicted),3,3,2
+18-24,Female,Ajk,Student,Educational or informative content,3-4 hour,Instagram,NO,Slightly worsened,Never,NO,Never,2 (Slightly addicted),1,3,3
+18-24,Male,Wah,Student,"Entertainment (videos, memes, etc.)",3-4 hour,Facebook,NO,Slightly worsened,Never,NO,Never,2 (Slightly addicted),2,3,4
+18-24,Female,Rawalpindi,Employed,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, Facebook",YES,Slightly worsened,Rarely,NO,Rarely,3 (Moderately addicted),3,3,14-Dec
+18-24,Male,Islamabad,Student,"Entertainment (videos, memes, etc.)",1-2 hour,Instagram,NO,Significantly worsened,Never,NO,Never,2 (Slightly addicted),3,3,12 hours 
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",5-6 hour,Youtube,NO,No impact,Never,Prefer not to say,Occasionally,1 (Not addicted at all),3,3,4hour
+18-24,Male,Islamabad,Employed,"Entertainment (videos, memes, etc.)",7-9 hour,"Instagram, Twitter, Youtube",NO,No impact,Never,NO,Rarely,2 (Slightly addicted),more than 5,3,3 hrs
+18-24,Female,Wah,Student,Educational or informative content,1-2 hour,Youtube,YES,Significantly worsened,Never,YES,Frequently,2 (Slightly addicted),1,1,None
+18-Nov,Male,Dubai,Student,Educational or informative content,3-4 hour,"Instagram, Youtube",NO,Slightly worsened,Never,NO,Occasionally,3 (Moderately addicted),2,4,6
+18-24,Male,KPK,Student,News and current events,3-4 hour,Youtube,YES,Significantly worsened,Frequently,Prefer not to say,Frequently,4 (Very addicted),3,4,Ion know man
+18-24,Female,Wah,Employed,"Entertainment (videos, memes, etc.)",1-2 hour,TikTok,YES,Slightly worsened,Never,NO,Occasionally,1 (Not addicted at all),3,5,15.5 hours 
+18-Nov,Female,Wah,Student,Educational or informative content,3-4 hour,TikTok,NO,Slightly worsened,Rarely,YES,Occasionally,2 (Slightly addicted),3,3,5
+34-54,Male,UK,Employed,News and current events,3-4 hour,"Youtube, Facebook",NO,No impact,Never,NO,Never,2 (Slightly addicted),2,1,0
+18-24,Male,Rawalpindi,Student,Educational or informative content,3-4 hour,"Instagram, Youtube",NO,Slightly worsened,Rarely,NO,Occasionally,2 (Slightly addicted),3,3,3 hours daily
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",5-6 hour,Instagram,NO,Slightly worsened,Occasionally,NO,Occasionally,2 (Slightly addicted),2,3,3 to 4
+24-34,Male,Wah,Taylor ,"Entertainment (videos, memes, etc.)",5-6 hour,"TikTok, Youtube",YES,No impact,Rarely,YES,Rarely,4 (Very addicted),2,5,3
+18-24,Female,Dubai,Student,"Entertainment (videos, memes, etc.)",1-2 hour,"Instagram, TikTok, Snapchat, Facebook",YES,Slightly worsened,Rarely,NO,Occasionally,3 (Moderately addicted),2,3,2 hours max
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",3-4 hour,TikTok,NO,Slightly worsened,Never,NO,Rarely,2 (Slightly addicted),3,3,4-Mar
+18-24,Male,Wah,Student,Professional or networking content,1-2 hour,"Instagram, Twitter, Youtube",YES,Slightly worsened,Rarely,YES,Rarely,3 (Moderately addicted),3,5,15
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",7-9 hour,"Instagram, TikTok, Snapchat, Youtube",NO,No impact,Rarely,NO,Occasionally,3 (Moderately addicted),4,3,0
+18-24,Female,Wah,Student,Educational or informative content,5-6 hour,"Instagram, Youtube",YES,No impact,Never,NO,Never,1 (Not addicted at all),3,3,4 hours
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",5-6 hour,"Instagram, TikTok, Snapchat, Youtube",NO,No impact,Occasionally,NO,Never,3 (Moderately addicted),4,3,1 hour
+18-24,Male,Wah,Employed,Professional or networking content,3-4 hour,Instagram,NO,No impact,Never,NO,Rarely,2 (Slightly addicted),3,4,5-Apr
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",1-2 hour,Instagram,NO,Slightly worsened,Occasionally,NO,Occasionally,3 (Moderately addicted),2,3,2
+18-Nov,Male,Wah,Student,"Entertainment (videos, memes, etc.)",5-6 hour,"Instagram, Snapchat, Youtube",NO,No impact,Never,YES,Frequently,4 (Very addicted),3,3,1 2 hours
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, TikTok, Snapchat, Youtube",YES,Slightly worsened,Occasionally,NO,Occasionally,2 (Slightly addicted),2,1,3
+18-Nov,Male,Islamabad,Student,Educational or informative content,3-4 hour,"Instagram, Youtube",YES,Slightly worsened,Occasionally,YES,Rarely,2 (Slightly addicted),2,4,Maybe 1-2 hrs
+18-Nov,Female,Dubai,Student,"Entertainment (videos, memes, etc.)",5-6 hour,"Instagram, Snapchat, Youtube",YES,No impact,Rarely,NO,Occasionally,4 (Very addicted),3,4,9-Aug
+18-24,Female,Wah,Student,Educational or informative content,5-6 hour,"Instagram, TikTok",NO,No impact,Rarely,NO,Frequently,2 (Slightly addicted),2,3,8.to 9
+18-24,Male,Wah,Employed,"Entertainment (videos, memes, etc.)",1-2 hour,"Instagram, Snapchat, Youtube, Facebook",NO,Significantly worsened,Rarely,NO,Never,2 (Slightly addicted),3,3,10-Aug
+18-24,Female,Wah,Student,Educational or informative content,7-9 hour,Youtube,NO,No impact,Frequently,NO,Rarely,1 (Not addicted at all),2,3,10
+24-34,Male,Rawalpindi,Employed,News and current events,3-4 hour,"Instagram, Twitter, TikTok, Snapchat, Youtube, Facebook",YES,Slightly worsened,Rarely,YES,Occasionally,5 (extremely addicted),more than 5,1,14
+18-24,Female,Wah,Student,Educational or informative content,5-6 hour,Youtube,NO,Slightly worsened,Never,NO,Never,3 (Moderately addicted),1,3,10 to 12
+18-24,Female,Wah,Student,Educational or informative content,5-6 hour,Youtube,YES,No impact,Never,NO,Frequently,1 (Not addicted at all),4,3,13
+24-34,Male,Australia,Student,"Entertainment (videos, memes, etc.)",1-2 hour,Instagram,NO,No impact,Never,NO,Never,2 (Slightly addicted),more than 5,3,1-1.5
+18-24,Male,Islamabad,Student,"Entertainment (videos, memes, etc.)",7-9 hour,Instagram,YES,Slightly worsened,Occasionally,NO,Rarely,4 (Very addicted),3,2,1hour
+18-Nov,Female,Germany,Student,"Entertainment (videos, memes, etc.)",1-2 hour,"TikTok, Snapchat, Youtube",NO,Significantly worsened,Rarely,NO,Never,3 (Moderately addicted),3,3,2-Jan
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, Snapchat, Youtube",YES,Slightly worsened,Occasionally,NO,Never,4 (Very addicted),3,3,14 hours per week
+18-Nov,Female,Germany,Student,"Entertainment (videos, memes, etc.)",1-2 hour,"TikTok, Snapchat, Youtube",NO,Significantly worsened,Never,NO,Never,2 (Slightly addicted),3,3,3-Jan
+18-24,Female,Wah,Student,Educational or informative content,5-6 hour,Youtube,YES,No impact,Rarely,YES,Rarely,3 (Moderately addicted),2,3,8
+18-24,Male,KPK,Student,News and current events,5-6 hour,Twitter,NO,Significantly worsened,Rarely,NO,Rarely,3 (Moderately addicted),3,4,14
+34-54,Male,USA,Employed,News and current events,3-4 hour,"Instagram, Youtube, Facebook",YES,Slightly improved,Rarely,NO,Rarely,2 (Slightly addicted),2,1,0
+24-34,Male,Wah,unemployed,News and current events,5-6 hour,Facebook,YES,No impact,Never,NO,Frequently,4 (Very addicted),4,5,21 minimum
+24-34,Male,Wah,Employed,News and current events,3-4 hour,"Youtube, Facebook",YES,Slightly worsened,Occasionally,YES,Never,4 (Very addicted),3,5,14 to 16 Hrs approximately 
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",5-6 hour,Instagram,YES,Slightly worsened,Frequently,YES,Frequently,4 (Very addicted),3,1,5
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",5-6 hour,"Instagram, TikTok, Youtube",YES,Slightly worsened,Rarely,NO,Never,2 (Slightly addicted),2,3,5
+18-24,Male,Islamabad,Student,"Entertainment (videos, memes, etc.)",1-2 hour,"Instagram, Youtube, Facebook",NO,No impact,Rarely,NO,Rarely,2 (Slightly addicted),2,3,1
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",3-4 hour,Instagram,NO,Slightly worsened,Rarely,NO,Rarely,2 (Slightly addicted),3,1,4 hours
+18-24,Male,Islamabad,Employed,Educational or informative content,7-9 hour,"Instagram, Twitter, TikTok, Youtube, Facebook ",YES,Slightly worsened,Never,NO,Never,2 (Slightly addicted),more than 5,5,0
+18-24,Female,Islamabad,Student,Educational or informative content,1-2 hour,Instagram,NO,Significantly worsened,Frequently,NO,Occasionally,2 (Slightly addicted),3,3,3_5
+18-24,Male,Islamabad,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, TikTok, Snapchat",NO,Significantly worsened,Never,NO,Never,2 (Slightly addicted),2,3,25
+18-24,Male,Rawalpindi,Student,News and current events,3-4 hour,Instagram,NO,No impact,Never,NO,Never,2 (Slightly addicted),3,3,i sleep on time
+18-24,Female,Kashmir,Student,"Entertainment (videos, memes, etc.)",5-6 hour,"Instagram, TikTok",NO,Slightly worsened,Occasionally,NO,Rarely,3 (Moderately addicted),2,1,3 to 4
+34-54,Female,Islamabad,Home makee,"Entertainment (videos, memes, etc.)",5-6 hour,"Instagram, TikTok, Youtube, Facebook",YES,Slightly worsened,Occasionally,NO,Occasionally,4 (Very addicted),3,3,3
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",3-4 hour,Instagram,NO,Slightly worsened,Rarely,NO,Rarely,3 (Moderately addicted),1,3,30
+18-24,Male,Rawalpindi,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"TikTok, Youtube",NO,Significantly worsened,Rarely,NO,Never,2 (Slightly addicted),2,1,14
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",5-6 hour,Youtube,YES,No impact,Frequently,YES,Occasionally,2 (Slightly addicted),3,3,14 hours 
+18-24,Female,Ajk,Student,Educational or informative content,1-2 hour,Youtube,NO,Slightly worsened,Rarely,NO,Rarely,2 (Slightly addicted),3,3,4
+18-24,Female,Wah,Student,Professional or networking content,3-4 hour,"Instagram, Snapchat",YES,Slightly worsened,Occasionally,NO,Rarely,3 (Moderately addicted),2,4,An hour or two
+18-24,Female,Rawalpindi,Student,"Entertainment (videos, memes, etc.)",7-9 hour,"Instagram, Youtube",YES,No impact,Occasionally,NO,Rarely,2 (Slightly addicted),3,3,0
+18-24,Female,KPK,Student,"Entertainment (videos, memes, etc.)",3-4 hour,TikTok,YES,Significantly worsened,Frequently,Prefer not to say,Frequently,5 (extremely addicted),4,5,6
+18-24,Male,Rawalpindi,Student,Educational or informative content,1-2 hour,"Instagram, Twitter, Youtube",NO,No impact,Never,NO,Never,1 (Not addicted at all),2,3,2
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",1-2 hour,Instagram,NO,No impact,Rarely,NO,Never,1 (Not addicted at all),2,3,Never 
+18-24,Female,KPK,Employed,"Entertainment (videos, memes, etc.)",5-6 hour,"Instagram, TikTok, Snapchat",NO,Slightly worsened,Frequently,NO,Frequently,1 (Not addicted at all),3,3,5
+18-Nov,Female,Wah,Student,"Entertainment (videos, memes, etc.)",3-4 hour,Youtube,NO,No impact,Rarely,NO,Occasionally,1 (Not addicted at all),1,3,4
+24-34,Female,Wah,Employed,"Entertainment (videos, memes, etc.)",7-9 hour,"TikTok, Youtube, Facebook",NO,No impact,Rarely,NO,Never,3 (Moderately addicted),4,3,1 to 2 hrs max 
+18-24,Female,Wah,Student,Educational or informative content,5-6 hour,"Instagram, Youtube",YES,No impact,Never,NO,Never,3 (Moderately addicted),3,3,1
+24-34,Male,Rawalpindi,Employed,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, Youtube, Facebook",NO,Slightly worsened,Rarely,NO,Rarely,3 (Moderately addicted),2,3,14
+18-24,Female,Wah,Student,Professional or networking content,5-6 hour,"Instagram, Youtube",YES,No impact,Never,NO,Never,4 (Very addicted),3,3,1
+18-24,Male,Islamabad,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, Facebook",YES,Slightly worsened,Occasionally,YES,Occasionally,4 (Very addicted),3,3,4
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, Snapchat, Facebook",YES,Slightly worsened,Rarely,NO,Never,2 (Slightly addicted),4,3,4-Mar
+24-34,Male,Mianwali ,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"TikTok, Youtube, Facebook",NO,No impact,Never,NO,Never,2 (Slightly addicted),3,5,14-Oct
+18-24,Male,Islamabad,Employed,Educational or informative content,1-2 hour,"Instagram, Facebook",NO,Significantly worsened,Never,NO,Frequently,2 (Slightly addicted),3,3,20
+18-24,Female,Rawalpindi,Student,"Entertainment (videos, memes, etc.)",3-4 hour,Snapchat,YES,Slightly worsened,Frequently,NO,Rarely,5 (extremely addicted),3,3,3-4 hours
+18-24,Male,Islamabad,Student,Professional or networking content,5-6 hour,"Instagram, TikTok, Snapchat, Facebook",NO,Slightly worsened,Never,NO,Rarely,1 (Not addicted at all),4,3,5
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",1-2 hour,Youtube,YES,No impact,Never,NO,Rarely,2 (Slightly addicted),3,2,7
+24-34,Male,Wah,Employed,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, Twitter, TikTok, Youtube, Facebook",YES,Significantly worsened,Occasionally,NO,Frequently,4 (Very addicted),more than 5,5,4
+18-Nov,Female,Wah,Student,"Entertainment (videos, memes, etc.)",7-9 hour,Instagram,YES,Significantly worsened,Never,NO,Never,3 (Moderately addicted),4,3,9
+18-24,Female,Lahore,Student,"Entertainment (videos, memes, etc.)",7-9 hour,Instagram,NO,Slightly improved,Never,NO,Rarely,3 (Moderately addicted),3,3,0
+18-24,Male,Wah,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, Snapchat",NO,Slightly worsened,Never,NO,Rarely,3 (Moderately addicted),2,3,12
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",5-6 hour,"Instagram, TikTok, Youtube",YES,Significantly worsened,Rarely,NO,Occasionally,3 (Moderately addicted),2,1,2
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",1-2 hour,Instagram,NO,Slightly worsened,Never,NO,Never,3 (Moderately addicted),3,3,2 hours 
+18-24,Male,Islamabad,Student,"Entertainment (videos, memes, etc.)",5-6 hour,"Instagram, Snapchat, Youtube",YES,Significantly worsened,Never,YES,Never,3 (Moderately addicted),4,2,Haven't sleep for last for days lol
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",1-2 hour,Youtube,NO,No impact,Never,NO,Never,4 (Very addicted),1,5,3168773046
+24-34,Male,Wah,Employed,Educational or informative content,1-2 hour,Youtube,NO,Slightly worsened,Occasionally,NO,Never,2 (Slightly addicted),4,3,8
+18-24,Male,Islamabad,Student,Educational or informative content,3-4 hour,"Instagram, TikTok, Snapchat",YES,Significantly worsened,Never,NO,Never,2 (Slightly addicted),2,1,14
+18-24,Male,Wah,Employed,Professional or networking content,7-9 hour,Twitter,YES,Slightly worsened,Rarely,NO,Rarely,4 (Very addicted),4,3,10 hours
+18-24,Male,Rawalpindi,Student,Educational or informative content,3-4 hour,"Instagram, Snapchat, Youtube",NO,Slightly worsened,Rarely,NO,Never,1 (Not addicted at all),2,3,I don't consider it losing sleep so 0
+18-24,Male,Islamabad,Student,"Entertainment (videos, memes, etc.)",7-9 hour,"Instagram, Twitter, Snapchat, Youtube, Facebook",YES,Slightly worsened,Occasionally,YES,Occasionally,2 (Slightly addicted),more than 5,3,20
+18-24,Male,Islamabad,Student,Educational or informative content,1-2 hour,"Youtube, Facebook",YES,Slightly worsened,Never,YES,Never,2 (Slightly addicted),2,2,2
+18-24,Male,Rawalpindi,Student,Educational or informative content,1-2 hour,Twitter,NO,No impact,Rarely,NO,Rarely,1 (Not addicted at all),1,3,0
+18-24,Female,Islamabad,Student,Educational or informative content,3-4 hour,Youtube,YES,Significantly worsened,Frequently,NO,Occasionally,3 (Moderately addicted),2,5,3
+18-24,Male,Rawalpindi,Student,"Entertainment (videos, memes, etc.)",3-4 hour,Instagram,NO,No impact,Never,NO,Never,3 (Moderately addicted),more than 5,5,3-Feb
+18-24,Male,Islamabad,Student,Educational or informative content,3-4 hour,Instagram,YES,No impact,Rarely,NO,Never,1 (Not addicted at all),2,5,0
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",1-2 hour,Instagram,YES,Significantly worsened,Rarely,NO,Occasionally,3 (Moderately addicted),3,5,4
+18-24,Male,Islamabad,Student,News and current events,3-4 hour,"TikTok, Youtube, ",YES,Slightly worsened,Frequently,Prefer not to say,Frequently,2 (Slightly addicted),3,3,10
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, TikTok, Snapchat",YES,No impact,Never,NO,Never,3 (Moderately addicted),2,3,Half hour rarely 
+18-24,Male,Islamabad,Student,News and current events,3-4 hour,"Instagram, Twitter, TikTok, Youtube",NO,No impact,Rarely,NO,Occasionally,2 (Slightly addicted),2,5,7 hours
+18-24,Male,Rawalpindi,Student,"Entertainment (videos, memes, etc.)",5-6 hour,"Instagram, Facebook",NO,Slightly worsened,Never,NO,Occasionally,3 (Moderately addicted),2,3,14 hours
+18-24,Male,Islamabad,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, TikTok, Snapchat, Youtube, Facebook",NO,Significantly worsened,Never,NO,Rarely,1 (Not addicted at all),1,5,2 to 3 hours
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",7-9 hour,Instagram,YES,Significantly worsened,Occasionally,NO,Frequently,2 (Slightly addicted),4,5,5 hours
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",1-2 hour,Instagram,YES,Slightly worsened,Rarely,NO,Occasionally,3 (Moderately addicted),more than 5,5,5 hours
+34-54,Male,Wah,Employed,"Entertainment (videos, memes, etc.)",3-4 hour,Instagram,NO,No impact,Never,NO,Never,2 (Slightly addicted),2,1,2 hours
+18-24,Male,Islamabad,Student,"Entertainment (videos, memes, etc.)",7-9 hour,"Instagram, Youtube, Facebook",YES,No impact,Occasionally,YES,Never,5 (extremely addicted),more than 5,3,6
+24-34,Male,Wah,unemployed,"Entertainment (videos, memes, etc.)",5-6 hour,"Instagram, TikTok, Snapchat",NO,Slightly worsened,Never,NO,Rarely,3 (Moderately addicted),4,3,21
+18-24,Male,Islamabad,Student,"Entertainment (videos, memes, etc.)",5-6 hour,Facebook,YES,Slightly worsened,Rarely,NO,Rarely,3 (Moderately addicted),3,5,10 to 13 hours in a week 
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",5-6 hour,"Instagram, TikTok",YES,No impact,Rarely,YES,Rarely,2 (Slightly addicted),3,5,2 to 3 hours 
+18-24,Male,Islamabad,Student,"Entertainment (videos, memes, etc.)",7-9 hour,"Instagram, TikTok, Snapchat, Youtube, Facebook",NO,No impact,Never,NO,Rarely,3 (Moderately addicted),more than 5,1,10
+18-24,Male,Islamabad,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, TikTok",NO,No impact,Never,YES,Rarely,2 (Slightly addicted),2,1,6
+24-34,Male,Wah,Employed,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, TikTok, Youtube, Facebook",NO,No impact,Never,NO,Never,3 (Moderately addicted),4,3,6-May
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",3-4 hour,Youtube,NO,Slightly worsened,Never,NO,Never,2 (Slightly addicted),2,3,6
+18-24,Male,Islamabad,Student,Professional or networking content,1-2 hour,Instagram,NO,No impact,Never,NO,Never,1 (Not addicted at all),2,5,None
+18-24,Male,Karachi,Student,"Entertainment (videos, memes, etc.)",1-2 hour,Instagram,NO,Slightly worsened,Rarely,NO,Rarely,2 (Slightly addicted),3,5,Around 1-2 hours of sleep. 
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, Snapchat",NO,No impact,Never,NO,Never,2 (Slightly addicted),2,5,1
+34-54,Male,Wah,Employed,"Entertainment (videos, memes, etc.)",1-2 hour,"Instagram, Youtube, Facebook",YES,Significantly worsened,Frequently,YES,Frequently,4 (Very addicted),,4,2
+24-34,Male,Wah,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, Youtube, Facebook",NO,Slightly worsened,Never,NO,Rarely,4 (Very addicted),3,3,3
+18-24,Male,Islamabad,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, Youtube",NO,Slightly worsened,Rarely,NO,Rarely,2 (Slightly addicted),2,3,14 hours 
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",5-6 hour,"Instagram, TikTok, Snapchat, Youtube",YES,Slightly worsened,Frequently,NO,Frequently,5 (extremely addicted),4,3,5
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, TikTok, Snapchat",NO,Slightly worsened,Never,NO,Rarely,2 (Slightly addicted),2,3,1to3
+18-24,Male,Islamabad,Student,"Entertainment (videos, memes, etc.)",5-6 hour,"Instagram, TikTok, Snapchat, Youtube, Facebook",NO,No impact,Occasionally,NO,Never,4 (Very addicted),2,3,0
+18-24,Male,Islamabad,Student,"Entertainment (videos, memes, etc.)",1-2 hour,Instagram,NO,Slightly worsened,Rarely,NO,Rarely,1 (Not addicted at all),4,3,4
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",7-9 hour,"Instagram, TikTok, Snapchat, Youtube",NO,Slightly worsened,Never,YES,Frequently,4 (Very addicted),4,3,10
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",3-4 hour,Instagram,NO,Significantly worsened,Frequently,NO,Frequently,3 (Moderately addicted),2,3,2 to 3
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",7-9 hour,TikTok,YES,Significantly worsened,Rarely,Prefer not to say,Rarely,2 (Slightly addicted),2,3,4
+18-24,Male,Rawalpindi,Student,"Entertainment (videos, memes, etc.)",1-2 hour,"Instagram, Snapchat, Youtube, Facebook, ",YES,Slightly worsened,Rarely,NO,Rarely,3 (Moderately addicted),1,3,14
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",7-9 hour,"Instagram, Youtube",NO,No impact,Never,NO,Rarely,3 (Moderately addicted),3,1,5
+18-Nov,Female,Wah,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, TikTok, Youtube",NO,Slightly improved,Rarely,NO,Never,3 (Moderately addicted),3,3,2 - 3 hours
+18-24,Female,Rawalpindi,Student,"Entertainment (videos, memes, etc.)",7-9 hour,"Instagram, TikTok, Snapchat, Youtube, Facebook",NO,No impact,Frequently,NO,Never,5 (extremely addicted),more than 5,3,1 hour
+18-24,Female,Taxila ,Student,Educational or informative content,3-4 hour,"Instagram, Snapchat, Youtube",YES,Slightly worsened,Rarely,NO,Rarely,2 (Slightly addicted),4,3,5
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",5-6 hour,"Instagram, Youtube",NO,Slightly worsened,Occasionally,NO,Rarely,2 (Slightly addicted),2,3,3
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",3-4 hour,Instagram,NO,No impact,Rarely,NO,Never,3 (Moderately addicted),2,5,2
+18-24,Female,Wah,Student,Professional or networking content,1-2 hour,Youtube,YES,No impact,Occasionally,NO,Occasionally,1 (Not addicted at all),2,3,3
+18-24,Female,Rawalpindi,Student,Educational or informative content,5-6 hour,Facebook,NO,No impact,Never,NO,Never,2 (Slightly addicted),4,3,0
+18-24,Female,Islamabad,Student,Educational or informative content,1-2 hour,Youtube,NO,No impact,Never,NO,Never,2 (Slightly addicted),1,3,4 hours 
+18-24,Female,Rawalpindi,Student,"Entertainment (videos, memes, etc.)",7-9 hour,Instagram,YES,Slightly worsened,Never,NO,Rarely,3 (Moderately addicted),3,3,20
+18-24,Female,Rawalpindi,Student,"Entertainment (videos, memes, etc.)",3-4 hour,Instagram,YES,Significantly worsened,Never,Prefer not to say,Occasionally,4 (Very addicted),more than 5,3,7
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",1-2 hour,Youtube,NO,No impact,Occasionally,NO,Rarely,2 (Slightly addicted),2,5,0
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",1-2 hour,Instagram,YES,Significantly worsened,Never,NO,Never,3 (Moderately addicted),2,1,5
+18-24,Female,Wah,Student,News and current events,5-6 hour,Instagram,NO,No impact,Never,NO,Never,1 (Not addicted at all),1,3,2to3
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",5-6 hour,"Instagram, Youtube",YES,Significantly worsened,Never,NO,Occasionally,4 (Very addicted),2,3,28
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",1-2 hour,Instagram,YES,Slightly worsened,Occasionally,NO,Occasionally,2 (Slightly addicted),1,3,6
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",5-6 hour,Instagram,YES,Slightly worsened,Occasionally,NO,Occasionally,2 (Slightly addicted),2,3,3 hours 
+24-34,Female,Wah,Student,"Entertainment (videos, memes, etc.)",5-6 hour,"Instagram, Snapchat, Youtube",YES,Significantly worsened,Rarely,NO,Frequently,3 (Moderately addicted),3,3,4 hours 
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",3-4 hour,Instagram,NO,Slightly worsened,Never,NO,Never,3 (Moderately addicted),1,1,10
+18-24,Male,Wah,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, Youtube, Facebook",YES,Slightly worsened,Rarely,YES,Occasionally,2 (Slightly addicted),more than 5,5,22
+18-Nov,Female,Wah,Student,"Entertainment (videos, memes, etc.)",5-6 hour,"Instagram, Snapchat, Youtube",NO,No impact,Rarely,NO,Rarely,2 (Slightly addicted),3,3,2hr
+18-24,Female,Wah,Student,Educational or informative content,3-4 hour,Instagram,YES,Slightly worsened,Never,NO,Never,2 (Slightly addicted),2,3,4-Mar
+18-24,Male,Wah,Student,"Entertainment (videos, memes, etc.)",3-4 hour,TikTok,YES,Slightly worsened,Frequently,NO,Occasionally,3 (Moderately addicted),3,5,8
+18-24,Male,Islamabad,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, TikTok, Youtube",NO,Significantly worsened,Occasionally,NO,Occasionally,3 (Moderately addicted),1,3,20
+18-24,Female,Taxila,Student,Educational or informative content,5-6 hour,"Snapchat, Youtube",YES,Slightly worsened,Never,NO,Rarely,3 (Moderately addicted),3,5,4 to 5
+18-24,Male,Rawalpindi,Student,"Entertainment (videos, memes, etc.)",1-2 hour,"Youtube, Reddit",NO,No impact,Never,NO,Never,1 (Not addicted at all),1,2,O
+18-Nov,Female,Kashmir ,Student,"Entertainment (videos, memes, etc.)",3-4 hour,Snapchat,NO,Slightly worsened,Never,YES,Rarely,2 (Slightly addicted),4,3,8 hours 
+24-34,Male,Wah,Employed,"Entertainment (videos, memes, etc.)",7-9 hour,"Instagram, TikTok, Snapchat, Facebook",YES,Slightly worsened,Occasionally,NO,Rarely,4 (Very addicted),3,5,3.5
+18-24,Male,Wah,Employed,"Entertainment (videos, memes, etc.)",1-2 hour,Instagram,YES,Significantly worsened,Occasionally,NO,Never,4 (Very addicted),2,3,0
+24-34,Female,Wah,Student,"Entertainment (videos, memes, etc.)",7-9 hour,"Instagram, TikTok, Snapchat, Youtube",YES,Significantly worsened,Occasionally,NO,Rarely,5 (extremely addicted),more than 5,3,"2,3"
+18-24,Female,Wah,Student,Educational or informative content,1-2 hour,"Snapchat, Youtube",NO,Slightly worsened,Never,NO,Never,3 (Moderately addicted),2,3,Maybe 6hours 
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",5-6 hour,Instagram,YES,Slightly worsened,Frequently,Prefer not to say,Frequently,5 (extremely addicted),2,3,20
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",5-6 hour,Instagram,YES,No impact,Occasionally,Prefer not to say,Occasionally,4 (Very addicted),3,3,5
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, TikTok",YES,Slightly worsened,Occasionally,NO,Occasionally,3 (Moderately addicted),more than 5,3,6
+18-24,Female,Rawalpindi,Student,"Entertainment (videos, memes, etc.)",3-4 hour,Instagram,NO,No impact,Frequently,NO,Frequently,1 (Not addicted at all),2,5,6 hours
+18-24,Female,Wah,Employed,"Entertainment (videos, memes, etc.), Educational or informative content",3-4 hour,"Instagram, Youtube",NO,Slightly worsened,Occasionally,NO,Occasionally,2 (Slightly addicted),2,3,approx 20
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",3-4 hour,TikTok,NO,No impact,Never,YES,Never,2 (Slightly addicted),3,3,1
+18-24,Male,Rawalpindi,Employed,Educational or informative content,1-2 hour,"Instagram, Facebook, LinkedIn",NO,No impact,Never,NO,Never,3 (Moderately addicted),3,4,0
+18-24,Male,Wah,Student,Educational or informative content,3-4 hour,Facebook,NO,No impact,Rarely,Prefer not to say,Never,1 (Not addicted at all),more than 5,5,10 to 12 hours may be
+18-24,Male,Haripur,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, Twitter, TikTok, Snapchat, Youtube, Facebook",NO,Slightly worsened,Rarely,NO,Rarely,2 (Slightly addicted),more than 5,3,7-8 hours
+18-24,Female,Rawalpindi,Student,Educational or informative content,3-4 hour,TikTok,YES,No impact,Never,NO,Frequently,5 (extremely addicted),more than 5,3,10_11hours
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",7-9 hour,"Instagram, TikTok, Snapchat, Youtube, Facebook, WhatsApp",YES,Slightly worsened,Frequently,NO,Frequently,5 (extremely addicted),3,3,4
+18-24,Female,Rawalpindi,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, TikTok, Snapchat, Youtube",YES,Slightly worsened,Occasionally,NO,Frequently,3 (Moderately addicted),4,3,6
+18-24,Male,Rawalpindi,unemployed,"Entertainment (videos, memes, etc.)",1-2 hour,"Instagram, TikTok, Snapchat, Youtube",YES,Slightly worsened,Occasionally,NO,Occasionally,2 (Slightly addicted),2,3,5
+18-24,Female,Rawalpindi,Student,"Entertainment (videos, memes, etc.)",5-6 hour,"Instagram, TikTok, Snapchat, Youtube",YES,Slightly worsened,Frequently,YES,Frequently,2 (Slightly addicted),2,5,8
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, Snapchat, Youtube, Facebook",NO,No impact,Rarely,Prefer not to say,Rarely,2 (Slightly addicted),more than 5,1,3 to 4
+18-24,Female,Islamabad,Student,Educational or informative content,5-6 hour,"Instagram, Youtube",YES,No impact,Never,NO,Never,2 (Slightly addicted),4,5,6
+18-24,Female,Rawalpindi,Student,Professional or networking content,7-9 hour,"Instagram, TikTok, Snapchat, Youtube",YES,Slightly worsened,Never,YES,Never,5 (extremely addicted),4,1,No idea
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",1-2 hour,Snapchat,NO,Significantly improved,Occasionally,NO,Occasionally,1 (Not addicted at all),2,3,3
+18-24,Female,Wah,Student,"Educational or informative content, Professional or networking content",3-4 hour,"Instagram, Youtube",YES,No impact,Rarely,NO,Occasionally,2 (Slightly addicted),2,3,Not too much. I prefer to sleep on time rather than using phone 
+18-24,Male,other,Student,"Entertainment (videos, memes, etc.)",1-2 hour,"Instagram, Youtube, other",YES,Slightly worsened,Rarely,NO,Occasionally,4 (Very addicted),3,3,2
+18-24,Male,other,Student,"Entertainment (videos, memes, etc.), News and current events, Educational or informative content, Professional or networking content",3-4 hour,"Instagram, Twitter, Snapchat, Youtube, Facebook",NO,Slightly worsened,Rarely,NO,Rarely,4 (Very addicted),3,3,10
+34-54,Male,Wah,Employed,"Entertainment (videos, memes, etc.), News and current events, Educational or informative content, Professional or networking content",1-2 hour,"Instagram, Snapchat, Youtube, Facebook",NO,No impact,Never,NO,Rarely,2 (Slightly addicted),2,3,7
+18-24,Female,Rawalpindi,Student,"Entertainment (videos, memes, etc.), Educational or informative content",3-4 hour,"Instagram, Youtube",YES,No impact,Rarely,NO,Rarely,1 (Not addicted at all),2,3,1or2 
+18-24,Female,Rawalpindi,Student,"Entertainment (videos, memes, etc.)",3-4 hour,Instagram,YES,Slightly worsened,Rarely,NO,Rarely,3 (Moderately addicted),3,3,4-Mar
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",3-4 hour,Instagram,YES,No impact,Never,Prefer not to say,Never,2 (Slightly addicted),more than 5,3,More than 34 hours 
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",3-4 hour,Instagram,YES,Slightly worsened,Occasionally,NO,Frequently,5 (extremely addicted),4,3,2
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",7-9 hour,"Instagram, TikTok, Snapchat, Youtube",YES,Slightly improved,Rarely,NO,Rarely,4 (Very addicted),3,3,4
+24-34,Male,Karachi,unemployed,"Entertainment (videos, memes, etc.), News and current events, Educational or informative content, Professional or networking content",5-6 hour,"Instagram, TikTok, Facebook",NO,No impact,Never,NO,Frequently,2 (Slightly addicted),3,3,8hrs
+18-24,Female,Rawalpindi,Student,"Entertainment (videos, memes, etc.)",5-6 hour,"Instagram, Youtube",NO,Slightly worsened,Rarely,NO,Rarely,3 (Moderately addicted),2,5,10
+18-24,Male,Islamabad,Employed,News and current events,3-4 hour,"Instagram, Youtube",NO,Slightly worsened,Rarely,NO,Never,2 (Slightly addicted),3,3,30 hours
+18-24,Female,Rawalpindi,Student,"Entertainment (videos, memes, etc.)",5-6 hour,"Instagram, TikTok",NO,Slightly worsened,Frequently,NO,Frequently,1 (Not addicted at all),3,3,15
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, other",YES,Slightly worsened,Occasionally,Prefer not to say,Frequently,2 (Slightly addicted),3,5,4
+18-Nov,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, Snapchat, Youtube",NO,Slightly improved,Never,NO,Rarely,2 (Slightly addicted),2,3,No idea
+18-24,Female,Rawalpindi,Student,"Entertainment (videos, memes, etc.)",7-9 hour,"TikTok, Youtube, Facebook",YES,Significantly worsened,Occasionally,YES,Frequently,5 (extremely addicted),2,5,11
+24-34,Male,other,Retired,News and current events,7-9 hour,"Instagram, Twitter, TikTok, Snapchat, Youtube, Facebook",YES,Significantly worsened,Never,YES,Occasionally,5 (extremely addicted),more than 5,1,All of my sleep
+18-24,Female,Rawalpindi,Student,"Entertainment (videos, memes, etc.)",7-9 hour,Snapchat,NO,No impact,Never,NO,Never,4 (Very addicted),2,3,Idk
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.), Educational or informative content",3-4 hour,"Instagram, Youtube",YES,No impact,Never,NO,Never,1 (Not addicted at all),2,3,1 hour 
+18-24,Male,Rawalpindi,Student,"Entertainment (videos, memes, etc.), News and current events, Educational or informative content, Professional or networking content",5-6 hour,"Instagram, Twitter, Youtube, Facebook",YES,Significantly worsened,Rarely,NO,Rarely,4 (Very addicted),4,3,More than 20
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",7-9 hour,"Instagram, TikTok",YES,Significantly worsened,Frequently,NO,Frequently,5 (extremely addicted),3,3,22
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.), News and current events, Educational or informative content, Professional or networking content",7-9 hour,"Instagram, Twitter, TikTok, Snapchat, Youtube",YES,Slightly worsened,Frequently,YES,Frequently,5 (extremely addicted),more than 5,3,30
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.), Educational or informative content",3-4 hour,"Instagram, Snapchat",YES,Slightly improved,Frequently,NO,Never,1 (Not addicted at all),2,3,12
+18-24,Female,Rawalpindi,Student,"Entertainment (videos, memes, etc.), News and current events, Educational or informative content",7-9 hour,"Instagram, Twitter, TikTok, Snapchat, Youtube, Facebook",YES,Significantly worsened,Frequently,NO,Frequently,5 (extremely addicted),more than 5,3,15
+18-24,Female,other,Student,"Entertainment (videos, memes, etc.)",5-6 hour,Instagram,YES,Slightly worsened,Rarely,NO,Frequently,5 (extremely addicted),2,3,0.9
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",3-4 hour,Instagram,YES,Significantly worsened,Frequently,NO,Frequently,2 (Slightly addicted),4,3,15
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, TikTok, Youtube",YES,No impact,Never,NO,Rarely,3 (Moderately addicted),4,3,8
+18-24,Male,Wah,Student,"Entertainment (videos, memes, etc.), News and current events, Educational or informative content",1-2 hour,"Youtube, Facebook",YES,Slightly worsened,Never,NO,Never,2 (Slightly addicted),3,3,2
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",5-6 hour,"Instagram, Snapchat",YES,Significantly worsened,Frequently,YES,Rarely,4 (Very addicted),4,5,3
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.), Educational or informative content",5-6 hour,Instagram,YES,No impact,Occasionally,NO,Occasionally,3 (Moderately addicted),3,3,Social media doesn't effect my sleep schedule 
+18-24,Male,Wah,Student,Professional or networking content,1-2 hour,"Instagram, Youtube, Facebook",NO,Slightly worsened,Rarely,NO,Never,3 (Moderately addicted),2,1,3-Feb
+18-24,Male,Wah,Student,"Entertainment (videos, memes, etc.)",1-2 hour,"Instagram, Twitter, Facebook",YES,Slightly worsened,Rarely,NO,Rarely,2 (Slightly addicted),more than 5,3,1
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.), Educational or informative content",3-4 hour,"Instagram, TikTok",YES,Slightly worsened,Rarely,Prefer not to say,Rarely,2 (Slightly addicted),2,3,1 hours daily
+18-24,Female,Wah,Student,Educational or informative content,5-6 hour,"Instagram, Snapchat",YES,No impact,Occasionally,NO,Never,2 (Slightly addicted),2,1,3 hours
+18-24,Female,Mian Channu ,Student,"Entertainment (videos, memes, etc.)",7-9 hour,"Instagram, TikTok, Snapchat",YES,No impact,Occasionally,Prefer not to say,Occasionally,4 (Very addicted),3,3,1
+18-24,Female,Mian channu,Student,"Entertainment (videos, memes, etc.), Educational or informative content",3-4 hour,Instagram,YES,Significantly worsened,Occasionally,YES,Frequently,3 (Moderately addicted),more than 5,3,4
+18-24,Female,Rawalpindi,Student,"Entertainment (videos, memes, etc.), Professional or networking content",3-4 hour,Instagram,YES,Slightly worsened,Frequently,YES,Frequently,3 (Moderately addicted),more than 5,3,3
+18-24,Female,Mian channu ,Student,Educational or informative content,1-2 hour,Instagram,NO,No impact,Rarely,Prefer not to say,Rarely,3 (Moderately addicted),more than 5,5,2
+18-Nov,Female,Rawalpindi,Student,"Entertainment (videos, memes, etc.), News and current events, Educational or informative content, Professional or networking content",3-4 hour,Youtube,NO,Slightly improved,Rarely,YES,Rarely,2 (Slightly addicted),1,5,2
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",3-4 hour,Instagram,YES,Slightly worsened,Rarely,NO,Rarely,3 (Moderately addicted),3,3,3-Feb
+18-24,Male,Islamabad,Student,"Entertainment (videos, memes, etc.), Educational or informative content, Professional or networking content",3-4 hour,"Instagram, Snapchat, Youtube",YES,Significantly worsened,Rarely,NO,Rarely,4 (Very addicted),3,1,12 to 13
+18-24,Female,Wah,Student,Professional or networking content,1-2 hour,Instagram,YES,Slightly improved,Frequently,YES,Occasionally,3 (Moderately addicted),more than 5,3,6 hours
+18-24,Male,Rawalpindi,Student,"Entertainment (videos, memes, etc.)",3-4 hour,Instagram,YES,Slightly worsened,Occasionally,NO,Frequently,3 (Moderately addicted),1,3,0
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",7-9 hour,Instagram,YES,Slightly worsened,Frequently,YES,Never,4 (Very addicted),2,3,4 to 5 hours 
+18-24,Female,Wah,Student,Educational or informative content,3-4 hour,Snapchat,NO,No impact,Frequently,NO,Occasionally,3 (Moderately addicted),3,5,1/2 weeks
+18-24,Female,Mian Channu,Student,Educational or informative content,3-4 hour,"Instagram, TikTok, Snapchat, Youtube, Facebook",YES,Slightly worsened,Occasionally,NO,Rarely,3 (Moderately addicted),4,3,24 hours
+18-24,Male,Rawalpindi,Student,News and current events,3-4 hour,Instagram,NO,No impact,Occasionally,Prefer not to say,Rarely,3 (Moderately addicted),3,3,5
+18-24,Male,Wah,Student,Educational or informative content,1-2 hour,Instagram,NO,Significantly improved,Never,Prefer not to say,Never,4 (Very addicted),more than 5,3,5
+18-24,Female,Wah,Student,Educational or informative content,1-2 hour,Instagram,YES,Significantly worsened,Frequently,YES,Frequently,1 (Not addicted at all),1,1,At least 1 hour 
+18-24,Male,Rawalpindi,Student,News and current events,5-6 hour,"Instagram, Twitter, TikTok, Youtube",NO,Slightly worsened,Occasionally,NO,Occasionally,1 (Not addicted at all),3,3,maximum half day
+18-24,Female,Taxila,Student,"Entertainment (videos, memes, etc.)",5-6 hour,Instagram,YES,Slightly worsened,Frequently,NO,Rarely,4 (Very addicted),more than 5,3,7 to 8 hours
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.), Educational or informative content",5-6 hour,"Instagram, Youtube",NO,No impact,Never,NO,Frequently,2 (Slightly addicted),4,3,2 hours 
+18-24,Female,KPK,Student,"Entertainment (videos, memes, etc.), other",7-9 hour,"Instagram, TikTok, Snapchat, Youtube",NO,Significantly worsened,Occasionally,NO,Frequently,2 (Slightly addicted),3,3,5 hours
+24-34,Male,Rawalpindi,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, TikTok, Snapchat, Facebook",NO,No impact,Never,NO,Never,2 (Slightly addicted),more than 5,1,0
+18-24,Female,KPK,Student,"Entertainment (videos, memes, etc.)",5-6 hour,Instagram,YES,Slightly worsened,Frequently,Prefer not to say,Rarely,4 (Very addicted),4,5,5
+18-24,Female,Mian channu ,Student,News and current events,3-4 hour,Instagram,NO,No impact,Never,Prefer not to say,Never,3 (Moderately addicted),more than 5,3,I have a fixed of sleep and waking up in early 
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, Snapchat, other",NO,No impact,Rarely,NO,Never,1 (Not addicted at all),1,3,8
+18-24,Female,Wah,Employed,"Entertainment (videos, memes, etc.)",7-9 hour,"Instagram, Snapchat",NO,No impact,Rarely,NO,Rarely,4 (Very addicted),3,3,5
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.), Educational or informative content, Professional or networking content",7-9 hour,"Instagram, Twitter, Snapchat, Youtube, Facebook",NO,Slightly worsened,Occasionally,NO,Occasionally,4 (Very addicted),more than 5,3,6-12 depends.
+34-55,Male,India ,housewife,"Entertainment (videos, memes, etc.)",7-9 hour,Instagram,YES,Slightly worsened,Never,Prefer not to say,Never,5 (extremely addicted),more than 5,1,24hours
+18-24,Female,Rawalpindi,Student,"Educational or informative content, Professional or networking content",5-6 hour,"Instagram, TikTok, Snapchat, Youtube, Facebook",YES,No impact,Frequently,NO,Frequently,2 (Slightly addicted),more than 5,1,30
+18-24,Female,Jand ,housewife,"Entertainment (videos, memes, etc.), Educational or informative content, Professional or networking content",5-6 hour,"Instagram, Youtube, other",YES,Slightly worsened,Rarely,NO,Rarely,2 (Slightly addicted),3,3,7
+24-34,Female,Islamabad,housewife,"Entertainment (videos, memes, etc.), Educational or informative content, Professional or networking content",3-4 hour,Instagram,YES,Slightly worsened,Rarely,NO,Occasionally,4 (Very addicted),4,3,24
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.), Educational or informative content",5-6 hour,"Instagram, Snapchat, Youtube",NO,Slightly worsened,Rarely,NO,Never,3 (Moderately addicted),3,1,3-Feb
+18-24,Female,Mianwali,Student,"Entertainment (videos, memes, etc.)",7-9 hour,Instagram,YES,Slightly worsened,Frequently,NO,Frequently,5 (extremely addicted),2,3,20
+18-Nov,Female,Mian cahnnu ,Student,"Entertainment (videos, memes, etc.), Educational or informative content",1-2 hour,"Instagram, Snapchat, Youtube",YES,Slightly worsened,Occasionally,NO,Occasionally,3 (Moderately addicted),3,3,7
+34-54,Male,Wah,Employed,"Entertainment (videos, memes, etc.), News and current events",3-4 hour,"Youtube, Facebook, other",NO,Slightly worsened,Frequently,YES,Frequently,3 (Moderately addicted),3,3,14
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, TikTok, Youtube",NO,Slightly worsened,Never,NO,Rarely,3 (Moderately addicted),3,1,6 hours
+24-34,Male,Rawalpindi,Student,"Entertainment (videos, memes, etc.)",3-4 hour,Twitter,NO,No impact,Occasionally,NO,Rarely,3 (Moderately addicted),3,3,0
+18-24,Female,Wah,Employed,Professional or networking content,1-2 hour,Instagram,YES,No impact,Rarely,NO,Rarely,2 (Slightly addicted),1,3,1-2 maybe
+18-24,Female,Rawalpindi,unemployed,"Entertainment (videos, memes, etc.)",7-9 hour,"TikTok, Snapchat",NO,Slightly worsened,Occasionally,NO,Never,1 (Not addicted at all),,3,More than 10 hours 
+18-24,Male,Lahore,Student,Professional or networking content,7-9 hour,Instagram,YES,Significantly improved,Never,NO,Rarely,4 (Very addicted),1,1,Nothing 
+18-24,Male,Wah,Student,"Entertainment (videos, memes, etc.)",1-2 hour,"Instagram, Youtube",NO,No impact,Occasionally,NO,Never,2 (Slightly addicted),2,3,8
+18-24,Male,Wah,Student,"Entertainment (videos, memes, etc.)",5-6 hour,Instagram,NO,No impact,Never,NO,Never,3 (Moderately addicted),1,3,5
+18-24,Female,Lahore,Student,Educational or informative content,7-9 hour,"TikTok, Youtube",NO,Significantly worsened,Never,NO,Never,3 (Moderately addicted),more than 5,3,4
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",3-4 hour,Instagram,NO,No impact,Never,NO,Rarely,2 (Slightly addicted),4,3,2
+18-24,Male,Wah,Student,"Entertainment (videos, memes, etc.)",5-6 hour,"TikTok, Youtube, Facebook",NO,No impact,Occasionally,NO,Occasionally,2 (Slightly addicted),2,3,Out of 24 I sleep 8 hours 
+18-24,Female,Wah,Student,News and current events,3-4 hour,"TikTok, Snapchat, Youtube",NO,Slightly worsened,Frequently,NO,Never,4 (Very addicted),3,3,2
+18-24,Male,Islamabad,Student,"News and current events, Educational or informative content, Professional or networking content",3-4 hour,Youtube,NO,Slightly worsened,Never,NO,Rarely,2 (Slightly addicted),1,3,2 hours
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.), Educational or informative content",3-4 hour,Instagram,YES,Slightly worsened,Never,NO,Rarely,3 (Moderately addicted),2,3,21
+18-24,Male,Islamabad,Student,"Entertainment (videos, memes, etc.)",5-6 hour,TikTok,YES,Slightly worsened,Rarely,NO,Rarely,5 (extremely addicted),more than 5,3,28
+18-24,Male,Rawalpindi,Student,"Entertainment (videos, memes, etc.)",1-2 hour,Instagram,NO,No impact,Never,NO,Occasionally,2 (Slightly addicted),2,1,1 hour
+18-24,Male,Rawalpindi,Student,"Entertainment (videos, memes, etc.)",3-4 hour,Instagram,NO,No impact,Frequently,NO,Never,3 (Moderately addicted),3,3,5
+18-24,Female,Wah,housewife,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, TikTok, Snapchat, Youtube",YES,No impact,Never,YES,Occasionally,2 (Slightly addicted),more than 5,3,7to 8 hour's 
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",3-4 hour,Youtube,NO,No impact,Occasionally,NO,Rarely,4 (Very addicted),1,1,1
+18-24,Male,Islamabad,Student,"Entertainment (videos, memes, etc.)",3-4 hour,Instagram,NO,Slightly worsened,Occasionally,NO,Frequently,4 (Very addicted),3,3,10
+18-24,Male,Islamabad,unemployed,"Entertainment (videos, memes, etc.), Educational or informative content",3-4 hour,"Instagram, TikTok, Snapchat, Youtube, Facebook",NO,Slightly worsened,Rarely,NO,Never,3 (Moderately addicted),4,3,3
+18-24,Male,Wah,Student,Professional or networking content,1-2 hour,Instagram,NO,Slightly worsened,Never,YES,Never,2 (Slightly addicted),1,3,5
+18-24,Male,Rawalpindi,Employed,News and current events,1-2 hour,Snapchat,NO,Slightly improved,Frequently,Prefer not to say,Rarely,2 (Slightly addicted),3,1,12
+18-24,Male,Wah,Student,"Entertainment (videos, memes, etc.), News and current events",3-4 hour,"Instagram, Youtube",NO,No impact,Rarely,NO,Never,1 (Not addicted at all),1,3,I know how much to use social Media apps so i have never experienced any sleep loss.
+18-24,Male,Rawalpindi,Student,"Entertainment (videos, memes, etc.)",3-4 hour,Instagram,NO,Slightly worsened,Rarely,NO,Rarely,2 (Slightly addicted),2,5,4
+18-24,Female,Taxila,Student,Professional or networking content,7-9 hour,"Instagram, TikTok, Snapchat, Youtube",YES,Slightly worsened,Occasionally,NO,Occasionally,4 (Very addicted),3,3,20
+18-24,Male,Wah,Student,"Entertainment (videos, memes, etc.)",7-9 hour,"Instagram, TikTok",NO,No impact,Occasionally,Prefer not to say,Never,5 (extremely addicted),2,1,No
+18-24,Male,Wah,Student,"Entertainment (videos, memes, etc.), Educational or informative content, Professional or networking content",3-4 hour,"Instagram, Youtube, Facebook",YES,Significantly worsened,Occasionally,YES,Occasionally,4 (Very addicted),4,3,7
+18-24,Male,Islamabad,Student,"Entertainment (videos, memes, etc.), News and current events",3-4 hour,"Instagram, Snapchat, Youtube",YES,No impact,Occasionally,NO,Rarely,2 (Slightly addicted),more than 5,3,10 hours
+18-24,Male,Islamabad,Student,Educational or informative content,3-4 hour,"Instagram, TikTok, Youtube, Facebook",YES,Slightly worsened,Occasionally,NO,Occasionally,3 (Moderately addicted),3,3,12
+18-24,Male,Wah,Student,"Entertainment (videos, memes, etc.), Professional or networking content",3-4 hour,"TikTok, Youtube",NO,No impact,Never,YES,Never,5 (extremely addicted),3,1,No loss
+18-24,Male,Faisalabad ,Student,Educational or informative content,1-2 hour,Instagram,NO,Slightly worsened,Never,NO,Never,1 (Not addicted at all),2,5,5
+18-24,Male,KPK,Student,"Entertainment (videos, memes, etc.)",7-9 hour,"Instagram, Twitter, TikTok, Snapchat, Youtube, Facebook",NO,Slightly worsened,Never,NO,Rarely,3 (Moderately addicted),more than 5,3,8 to 10
+34-55,Male,India,housewife,"Entertainment (videos, memes, etc.)",7-9 hour,Instagram,YES,No impact,Frequently,YES,Frequently,2 (Slightly addicted),1,1,24 hours 
+34-54,Male,KPK,unemployed,"Entertainment (videos, memes, etc.), News and current events, Educational or informative content",3-4 hour,"Youtube, Facebook",YES,Significantly worsened,Never,NO,Occasionally,3 (Moderately addicted),3,3,20 hours
+18-24,Male,Wah,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, TikTok, Snapchat, Youtube, Facebook, other",YES,Slightly worsened,Rarely,NO,Rarely,3 (Moderately addicted),4,3,20
+18-24,Male,Islamabad,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, TikTok, Snapchat",YES,Slightly worsened,Rarely,NO,Rarely,2 (Slightly addicted),3,5,10
+18-24,Male,Gujrat,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, Snapchat, Youtube, Facebook",YES,Significantly worsened,Frequently,NO,Frequently,3 (Moderately addicted),more than 5,3,10
+18-Nov,Male,Islamabad,housewife,"Entertainment (videos, memes, etc.), News and current events, Educational or informative content, Professional or networking content",7-9 hour,"Instagram, Twitter, TikTok, Snapchat, Youtube, Facebook",NO,Significantly improved,Never,YES,Never,5 (extremely addicted),more than 5,5,25.6
+18-24,Female,Islamabad,Student,Educational or informative content,3-4 hour,Facebook,NO,Slightly worsened,Never,YES,Occasionally,3 (Moderately addicted),2,3,No idea 
+18-24,Male,Islamabad,Student,"Entertainment (videos, memes, etc.), News and current events, Educational or informative content, Professional or networking content",3-4 hour,"Instagram, Youtube",YES,Slightly worsened,Frequently,NO,Frequently,3 (Moderately addicted),2,3,2
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.), News and current events, Educational or informative content",3-4 hour,"Instagram, Youtube",NO,No impact,Rarely,NO,Rarely,2 (Slightly addicted),4,1,3
+18-24,Female,Wah,Student,Educational or informative content,5-6 hour,TikTok,NO,No impact,Occasionally,NO,Never,3 (Moderately addicted),2,3,5 hours
+18-24,Male,Rawalpindi,Student,Professional or networking content,3-4 hour,"Instagram, Youtube",NO,Significantly improved,Never,NO,Rarely,2 (Slightly addicted),3,5,10
+18-24,Male,Wah,Student,"Entertainment (videos, memes, etc.), News and current events, Educational or informative content",3-4 hour,"Instagram, Twitter, Snapchat, Youtube, Facebook",YES,Significantly worsened,Occasionally,YES,Rarely,5 (extremely addicted),more than 5,3,Avg 5-6 per day
+18-24,Male,Multan,Student,"Entertainment (videos, memes, etc.)",7-9 hour,"Instagram, Snapchat",NO,Significantly worsened,Occasionally,Prefer not to say,Never,2 (Slightly addicted),4,3,5
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.), News and current events, Educational or informative content",3-4 hour,"Instagram, Snapchat",NO,Slightly worsened,Never,NO,Rarely,4 (Very addicted),3,5,Never loss my sleep hours due to social media but for studies I did
+24-34,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",1-2 hour,Instagram,YES,Significantly worsened,Frequently,NO,Frequently,4 (Very addicted),1,3,5
+24-34,Male,Islamabad,Student,"Entertainment (videos, memes, etc.)",5-6 hour,"TikTok, Youtube, Facebook",NO,Significantly worsened,Never,NO,Never,4 (Very addicted),4,3,4
+24-34,Male,Melbourne ,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, Youtube",YES,Slightly worsened,Frequently,YES,Occasionally,5 (extremely addicted),4,3,12
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",5-6 hour,Instagram,NO,No impact,Never,NO,Rarely,5 (extremely addicted),3,3,0
+18-24,Male,Wah,Student,"Entertainment (videos, memes, etc.), Educational or informative content, Professional or networking content",1-2 hour,Youtube,YES,Slightly worsened,Occasionally,YES,Occasionally,1 (Not addicted at all),1,3,1
+18-24,Male,Islamabad,Student,"News and current events, Educational or informative content, Professional or networking content",3-4 hour,"Instagram, TikTok, Snapchat",NO,No impact,Rarely,NO,Rarely,3 (Moderately addicted),3,3,none
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",1-2 hour,Instagram,NO,No impact,Never,NO,Never,2 (Slightly addicted),3,3,5 hours
+24-34,Female,Rawalpindi,unemployed,"Entertainment (videos, memes, etc.)",1-2 hour,"Instagram, Snapchat",NO,Slightly worsened,Rarely,NO,Never,1 (Not addicted at all),2,3,8
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",1-2 hour,"Instagram, Snapchat",NO,Slightly worsened,Rarely,NO,Rarely,3 (Moderately addicted),2,3,10
+18-24,Male,Wah,Student,"Entertainment (videos, memes, etc.), News and current events, Educational or informative content, Professional or networking content",1-2 hour,"Instagram, Youtube, Facebook",YES,Slightly worsened,Never,NO,Rarely,1 (Not addicted at all),3,3,1
+34-54,Female,Wah,Employed,Educational or informative content,1-2 hour,"Instagram, TikTok, Youtube, Facebook",NO,No impact,Occasionally,NO,Rarely,4 (Very addicted),4,1,No effect
+24-34,Male,Rawalpindi,Student,"Entertainment (videos, memes, etc.), News and current events, Educational or informative content, Professional or networking content",3-4 hour,Youtube,YES,No impact,Never,NO,Occasionally,1 (Not addicted at all),2,3,5 to 6 Hours
+18-24,Male,Australia ,Student,"Entertainment (videos, memes, etc.)",7-9 hour,"Instagram, TikTok, Snapchat, Youtube",NO,Slightly worsened,Frequently,YES,Occasionally,5 (extremely addicted),more than 5,3,Never counted
+18-24,Male,Karachi,Student,"Entertainment (videos, memes, etc.), News and current events, Professional or networking content",1-2 hour,"Instagram, Youtube",YES,Slightly worsened,Never,NO,Never,1 (Not addicted at all),3,1,8-Jul
+18-24,Male,Wah,Student,"Entertainment (videos, memes, etc.)",7-9 hour,Instagram,NO,Significantly worsened,Never,NO,Never,3 (Moderately addicted),more than 5,1,10-15 hours a week 
+18-24,Male,Islamabad,Employed,"Educational or informative content, Professional or networking content",3-4 hour,"Instagram, Twitter, TikTok, Youtube",NO,No impact,Frequently,NO,Rarely,2 (Slightly addicted),2,5,3
+18-24,Male,Islamabad,Student,"Entertainment (videos, memes, etc.), Educational or informative content",1-2 hour,"Instagram, Youtube",NO,Slightly worsened,Rarely,NO,Rarely,3 (Moderately addicted),2,3,10
+24-34,Female,Azad Kashmir,Student,"Entertainment (videos, memes, etc.)",7-9 hour,"Instagram, Youtube",NO,Slightly worsened,Never,YES,Never,3 (Moderately addicted),3,3,10
+18-24,Female,Australia,Student,"Entertainment (videos, memes, etc.)",7-9 hour,Youtube,YES,Slightly worsened,Rarely,NO,Occasionally,3 (Moderately addicted),1,3,15
+18-24,Female,Australia,Student,"Entertainment (videos, memes, etc.), Educational or informative content",5-6 hour,Youtube,YES,Slightly worsened,Rarely,NO,Occasionally,3 (Moderately addicted),1,3,15 - Note: I submitted a response earlier but forgot to get the surveyswap code so please disregard this response
+18-24,Female,Karachi,Student,"Entertainment (videos, memes, etc.)",5-6 hour,Instagram,YES,No impact,Frequently,NO,Rarely,3 (Moderately addicted),3,5,10
+18-24,Male,Karachi,Student,"Entertainment (videos, memes, etc.), News and current events, Professional or networking content",5-6 hour,"Instagram, Twitter, Snapchat, Youtube",NO,Significantly worsened,Occasionally,NO,Never,4 (Very addicted),more than 5,5,4
+18-24,Female,Karachi,Student,"Entertainment (videos, memes, etc.), News and current events, Educational or informative content",5-6 hour,"Instagram, Snapchat, Youtube",YES,Slightly worsened,Occasionally,YES,Never,3 (Moderately addicted),3,3,10
+18-24,Female,Karachi,Student,"Entertainment (videos, memes, etc.)",3-4 hour,Instagram,NO,Slightly worsened,Occasionally,NO,Rarely,3 (Moderately addicted),3,3,5
+18-24,Female,Rawalpindi,Student,"Entertainment (videos, memes, etc.), Educational or informative content",3-4 hour,Instagram,NO,No impact,Rarely,NO,Rarely,3 (Moderately addicted),2,3,2
+24-34,Female,Italy,unemployed,"Entertainment (videos, memes, etc.), News and current events, Educational or informative content",1-2 hour,Youtube,YES,Slightly worsened,Frequently,YES,Frequently,3 (Moderately addicted),1,1,4
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.), Professional or networking content",7-9 hour,"Instagram, TikTok, Snapchat, Youtube",YES,No impact,Frequently,YES,Frequently,3 (Moderately addicted),3,5,3
+18-24,Male,Karachi,Student,"Entertainment (videos, memes, etc.), News and current events, Educational or informative content, Professional or networking content",3-4 hour,"Instagram, Youtube, Facebook",NO,Slightly worsened,Never,NO,Never,4 (Very addicted),2,3,5
+18-24,Male,Wah,Employed,"Entertainment (videos, memes, etc.), Educational or informative content",3-4 hour,"Instagram, TikTok, Youtube",NO,Slightly worsened,Frequently,NO,Never,4 (Very addicted),5,3,3 hours
+34-54,Male,Karachi,unemployed,"Entertainment (videos, memes, etc.), News and current events, Educational or informative content, Professional or networking content",5-6 hour,"Instagram, Twitter, TikTok, Snapchat, Youtube, Facebook",YES,Significantly worsened,Frequently,YES,Frequently,5 (extremely addicted),4,5,100
+18-24,Male,Wah,Student,"News and current events, Educational or informative content, Professional or networking content",3-4 hour,"Instagram, Snapchat, Youtube",NO,No impact,Never,NO,Never,1 (Not addicted at all),1,3,0.1
+34-54,Male,Wah,Employed,"Entertainment (videos, memes, etc.), News and current events",5-6 hour,"TikTok, Youtube",YES,Slightly worsened,Occasionally,YES,Rarely,5 (extremely addicted),4,5,4
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",7-9 hour,Instagram,YES,Slightly worsened,Occasionally,Prefer not to say,Occasionally,4 (Very addicted),3,3,20
+18-24,Female,Rawalpindi,Student,"Entertainment (videos, memes, etc.), News and current events, Educational or informative content",3-4 hour,"Instagram, TikTok, Youtube",NO,Slightly worsened,Rarely,NO,Occasionally,2 (Slightly addicted),3,3,8
+18-24,Female,England ,Student,News and current events,3-4 hour,Instagram,YES,No impact,Occasionally,NO,Occasionally,3 (Moderately addicted),3,3,5
+24-34,Male,Wah,Employed,"Entertainment (videos, memes, etc.)",5-6 hour,TikTok,NO,No impact,Rarely,NO,Frequently,5 (extremely addicted),3,5,2
+18-24,Male,Wah,Employed,"Entertainment (videos, memes, etc.)",3-4 hour,Youtube,YES,Slightly worsened,Frequently,NO,Rarely,2 (Slightly addicted),5,5,3
+18-24,Male,Karachi,Student,"Entertainment (videos, memes, etc.), News and current events, Educational or informative content, Professional or networking content",3-4 hour,"Instagram, Snapchat, Youtube, Facebook",YES,Slightly worsened,Occasionally,NO,Rarely,2 (Slightly addicted),5,5,2
+18-Nov,Female,Wah,Student,Professional or networking content,3-4 hour,TikTok,NO,Slightly worsened,Never,NO,Rarely,4 (Very addicted),2,3,4
+18-24,Male,Wah,Student,Educational or informative content,1-2 hour,Youtube,YES,Slightly worsened,Rarely,NO,Never,2 (Slightly addicted),1,3,1-2 hours
+18-24,Male,Karachi,Student,"Entertainment (videos, memes, etc.), News and current events",7-9 hour,"Instagram, Twitter, Snapchat, Youtube, Facebook",NO,No impact,Never,NO,Never,1 (Not addicted at all),4,1,5
+18-24,Male,Wah,Employed,"Entertainment (videos, memes, etc.), Educational or informative content, Professional or networking content",5-6 hour,"Instagram, TikTok, Youtube",YES,No impact,Occasionally,NO,Occasionally,3 (Moderately addicted),3,5,0
+18-24,Male,Wah,Employed,"Entertainment (videos, memes, etc.)",7-9 hour,"Instagram, TikTok, Snapchat, Youtube",NO,Significantly worsened,Never,Prefer not to say,Never,5 (extremely addicted),3,1,28 Hours
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.), Educational or informative content",5-6 hour,"Instagram, TikTok, Snapchat",YES,Slightly worsened,Occasionally,YES,Occasionally,4 (Very addicted),3,3,Never
+24-34,Male,Wah,Student,"Entertainment (videos, memes, etc.), News and current events, Educational or informative content, Professional or networking content",3-4 hour,"Instagram, Snapchat, Youtube",NO,No impact,Never,NO,Never,3 (Moderately addicted),4,1,I don't lose sleep due to social media but because of university I lose alpt of sleep??
+18-Nov,Male,Wah,Student,Educational or informative content,5-6 hour,TikTok,NO,Slightly worsened,Rarely,NO,Never,3 (Moderately addicted),2,1,Many
+18-24,Female,Wah,Employed,Educational or informative content,1-2 hour,Instagram,YES,No impact,Never,NO,Rarely,1 (Not addicted at all),2,3, 2 Hours only.
+18-24,Female,Lahore,Student,"Entertainment (videos, memes, etc.)",5-6 hour,"Instagram, Snapchat",NO,Slightly worsened,Rarely,NO,Occasionally,4 (Very addicted),3,3,5
+18-24,Male,Rawalpindi,Student,Educational or informative content,3-4 hour,"TikTok, Youtube",NO,Slightly improved,Rarely,NO,Occasionally,2 (Slightly addicted),3,5,"I am sleeping five to eight hours (5-8) and i don't lose my sleeping hour because, I stickly follow my rotine .  "
+18-24,Male,Rawalpindi,unemployed,"News and current events, Educational or informative content",3-4 hour,"TikTok, Youtube",YES,Slightly improved,Frequently,NO,Frequently,2 (Slightly addicted),3,5,8-Jun
+18-24,Male,Wah,Employed,"Entertainment (videos, memes, etc.)",3-4 hour,Youtube,NO,Slightly worsened,Frequently,NO,Rarely,2 (Slightly addicted),3,3,3
+18-24,Male,Wah,Employed,Professional or networking content,3-4 hour,"TikTok, Snapchat, Facebook",YES,Slightly worsened,Occasionally,NO,Occasionally,3 (Moderately addicted),4,3,4
+18-24,Male,Wah,Employed,News and current events,5-6 hour,"TikTok, Facebook",YES,No impact,Frequently,YES,Frequently,4 (Very addicted),5,5,8
+34-54,Female,Wah,housewife,News and current events,3-4 hour,"Youtube, Facebook",YES,No impact,Never,NO,Rarely,1 (Not addicted at all),2,5,2
+18-24,Male,Rawalpindi,Employed,"Entertainment (videos, memes, etc.), Educational or informative content, Professional or networking content",5-6 hour,"Instagram, TikTok, Snapchat, Youtube, Facebook",YES,No impact,Never,NO,Rarely,3 (Moderately addicted),4,3,7
+18-24,Male,Rawalpindi,Student,"Entertainment (videos, memes, etc.)",5-6 hour,Youtube,YES,Slightly worsened,Occasionally,YES,Frequently,5 (extremely addicted),5,5,20
+18-24,Male,Rawalpindi,Student,"Entertainment (videos, memes, etc.), Educational or informative content, Professional or networking content",5-6 hour,"Instagram, Youtube",NO,Slightly worsened,Occasionally,NO,Occasionally,3 (Moderately addicted),3,3,6
+18-24,Male,Rawalpindi,Student,"Entertainment (videos, memes, etc.)",3-4 hour,Instagram,YES,Significantly worsened,Frequently,YES,Frequently,3 (Moderately addicted),4,3,6
+18-24,Male,Islamabad,Employed,"Entertainment (videos, memes, etc.), Professional or networking content",3-4 hour,Youtube,YES,Slightly worsened,Frequently,NO,Never,2 (Slightly addicted),1,1,30
+18-24,Male,Rawalpindi,Student,"Entertainment (videos, memes, etc.), Educational or informative content, Professional or networking content",7-9 hour,"Instagram, TikTok, Youtube, Facebook",NO,Slightly worsened,Frequently,NO,Occasionally,2 (Slightly addicted),4,3,8
+18-24,Male,Islamabad,Student,"Entertainment (videos, memes, etc.), News and current events",3-4 hour,Instagram,YES,Slightly worsened,Occasionally,NO,Rarely,3 (Moderately addicted),4,3,10-Aug
+18-24,Female,Karachi,Student,"Entertainment (videos, memes, etc.)",5-6 hour,Instagram,YES,No impact,Occasionally,NO,Occasionally,3 (Moderately addicted),4,3,5 to 6
+18-24,Female,Islamabad,Student,Professional or networking content,3-4 hour,Instagram,NO,No impact,Occasionally,NO,Occasionally,3 (Moderately addicted),3,3,8
+18-24,Female,Rawalpindi,Student,"Entertainment (videos, memes, etc.)",5-6 hour,"Instagram, Youtube",NO,Slightly worsened,Rarely,NO,Never,4 (Very addicted),5,3,32
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.), Educational or informative content",1-2 hour,Youtube,NO,No impact,Never,NO,Never,2 (Slightly addicted),1,3,0
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",3-4 hour,Instagram,YES,No impact,Frequently,YES,Frequently,2 (Slightly addicted),3,1,1
+18-24,Male,KPK,Student,"Entertainment (videos, memes, etc.), News and current events, Educational or informative content, Professional or networking content",5-6 hour,"Instagram, Youtube, Facebook",YES,Significantly worsened,Frequently,NO,Rarely,3 (Moderately addicted),2,1,Not sure
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, Youtube",YES,Slightly worsened,Rarely,NO,Rarely,2 (Slightly addicted),2,3,3
+18-24,Male,Wah,Student,"Entertainment (videos, memes, etc.), Educational or informative content, Professional or networking content",3-4 hour,Youtube,YES,Significantly worsened,Rarely,NO,Rarely,1 (Not addicted at all),2,3,2
+18-24,Male,Swabi,Student,"Entertainment (videos, memes, etc.)",5-6 hour,"Instagram, TikTok, Snapchat, Youtube",YES,Significantly worsened,Occasionally,NO,Occasionally,4 (Very addicted),4,5,14
+24-34,Female,Karachi,Employed,"Entertainment (videos, memes, etc.)",3-4 hour,Youtube,YES,Significantly worsened,Occasionally,NO,Occasionally,3 (Moderately addicted),2,1,2.5
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.), Educational or informative content",3-4 hour,"Instagram, TikTok, Youtube",YES,Significantly worsened,Occasionally,Prefer not to say,Occasionally,3 (Moderately addicted),5,3,8
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, TikTok, Snapchat",YES,Significantly worsened,Rarely,NO,Frequently,3 (Moderately addicted),5,3,3-Feb
+18-24,Male,KPK,Student,"Entertainment (videos, memes, etc.)",3-4 hour,Facebook,NO,Slightly worsened,Rarely,NO,Never,4 (Very addicted),3,3,9 hours
+18-24,Male,KPK,Employed,"Entertainment (videos, memes, etc.), News and current events",5-6 hour,"Instagram, Snapchat, Facebook",NO,No impact,Rarely,NO,Rarely,3 (Moderately addicted),4,3,0.5 hours
+18-24,Female,Islamabad,Student,"Entertainment (videos, memes, etc.)",3-4 hour,Youtube,NO,No impact,Rarely,NO,Rarely,1 (Not addicted at all),2,3,No 
+24-34,Male,Islamabad,Student,"Educational or informative content, Professional or networking content",1-2 hour,"Instagram, Twitter, TikTok, Snapchat, Youtube, Facebook",NO,Slightly worsened,Never,YES,Rarely,1 (Not addicted at all),6,3,4
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, Youtube",YES,Slightly worsened,Occasionally,NO,Occasionally,3 (Moderately addicted),2,3,60
+18-24,Female,Multan,Student,"Entertainment (videos, memes, etc.)",3-4 hour,Instagram,NO,Slightly worsened,Rarely,NO,Rarely,2 (Slightly addicted),2,3,2 to 3
+18-24,Female,Karachi,Employed,"Entertainment (videos, memes, etc.), News and current events, Educational or informative content, Professional or networking content",5-6 hour,"Instagram, TikTok, Facebook",YES,Significantly worsened,Occasionally,NO,Occasionally,5 (extremely addicted),4,3,Maximum 14 hours per week.
+18-24,Male,Islamabad,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, Twitter, TikTok, Snapchat, Facebook",YES,Slightly worsened,Occasionally,YES,Occasionally,3 (Moderately addicted),3,3,10 hours
+18-24,Female,Wah,Student,"Entertainment (videos, memes, etc.), News and current events, Educational or informative content",3-4 hour,"Instagram, TikTok, Snapchat, Youtube",NO,Slightly worsened,Never,NO,Frequently,5 (extremely addicted),6,3,2-Jan
+24-34,Male,Wah,Employed,"Entertainment (videos, memes, etc.), News and current events, Educational or informative content, Professional or networking content",7-9 hour,"Instagram, TikTok, Snapchat, Facebook",YES,Slightly worsened,Occasionally,NO,Rarely,4 (Very addicted),4,3,5.5
+24-34,Male,punjab,Employed,"Entertainment (videos, memes, etc.), News and current events, Professional or networking content",more then 9,"Instagram, TikTok, Snapchat, Facebook",YES,Slightly worsened,Occasionally,NO,Occasionally,4 (Very addicted),More than 5,4,10
+18-24,Female,punjab,Student,"Entertainment (videos, memes, etc.)",7-9 hour,"Instagram, Snapchat, Youtube",YES,Slightly worsened,Occasionally,NO,Rarely,3 (Moderately addicted),,3,3
+18-24,Male,punjab,Student,"Entertainment (videos, memes, etc.), Educational or informative content",5-6 hour,Instagram,NO,Slightly worsened,Occasionally,NO,Occasionally,3 (Moderately addicted),,3,20
+18-24,Male,punjab,Student,"Entertainment (videos, memes, etc.)",1-2 hour,Instagram,NO,Slightly worsened,Rarely,NO,Rarely,3 (Moderately addicted),,5,12
+18-Nov,Female,punjab,Student,Educational or informative content,7-9 hour,Snapchat,YES,Slightly worsened,Frequently,Prefer not to say,Occasionally,3 (Moderately addicted),,2,5
+18-24,Female,punjab,Student,"Entertainment (videos, memes, etc.)",1-2 hour,"Instagram, Snapchat",YES,No impact,Rarely,NO,Rarely,3 (Moderately addicted),,3,3
+18-24,Female,punjab,Student,"Entertainment (videos, memes, etc.)",3-4 hour,Instagram,YES,Slightly worsened,Occasionally,NO,Rarely,2 (Slightly addicted),,3,2
+18-24,Male,punjab,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"TikTok, Youtube, Facebook",NO,No impact,Never,NO,Frequently,1 (Not addicted at all),,4,6
+18-24,Female,punjab,Student,News and current events,3-4 hour,"Instagram, Snapchat",NO,No impact,Occasionally,NO,Rarely,2 (Slightly addicted),,5,2_3
+18-24,Female,punjab,Student,"Entertainment (videos, memes, etc.)",1-2 hour,Instagram,YES,Slightly worsened,Occasionally,NO,Occasionally,3 (Moderately addicted),,3,4
+18-24,Male,azaad kashmir,Student,"Educational or informative content, Professional or networking content",5-6 hour,"Instagram, Youtube, Facebook",NO,Significantly improved,Occasionally,NO,Occasionally,4 (Very addicted),,3,4
+18-24,Female,punjab,Student,"Entertainment (videos, memes, etc.), Educational or informative content",3-4 hour,"TikTok, Youtube",NO,No impact,Never,Prefer not to say,Never,1 (Not addicted at all),,2,
+18-24,Male,punjab,Student,"Entertainment (videos, memes, etc.), Educational or informative content, Professional or networking content",5-6 hour,"Instagram, TikTok, Snapchat, Youtube, Facebook",NO,Slightly worsened,Never,NO,Occasionally,3 (Moderately addicted),,5,Around 24 hra
+18-24,Male,punjab,Student,Educational or informative content,3-4 hour,"Instagram, TikTok, Snapchat, Youtube, Facebook",YES,Slightly improved,Never,YES,Rarely,1 (Not addicted at all),,3,1 hour
+18-24,Male,punjab,Student,"Entertainment (videos, memes, etc.), Professional or networking content",3-4 hour,Instagram,YES,Slightly worsened,Rarely,NO,Never,3 (Moderately addicted),,3,0
+18-Nov,Male,KPK,Student,"Entertainment (videos, memes, etc.), Educational or informative content",5-6 hour,"Instagram, Youtube",NO,Slightly worsened,Never,NO,Never,3 (Moderately addicted),,3,8
+18-24,Female,punjab,Student,"Entertainment (videos, memes, etc.)",3-4 hour,"Instagram, TikTok, Snapchat",NO,No impact,Rarely,NO,Never,2 (Slightly addicted),,1,No
+18-24,Male,punjab,Student,"Entertainment (videos, memes, etc.), News and current events, Educational or informative content",5-6 hour,"Instagram, Youtube",NO,No impact,Never,NO,Never,1 (Not addicted at all),,3,0
+18-24,Male,punjab,Student,"Entertainment (videos, memes, etc.)",more then 9,Instagram,NO,No impact,Rarely,YES,Rarely,5 (extremely addicted),,3,2
+18-24,Female,punjab,Student,"Entertainment (videos, memes, etc.)",1-2 hour,TikTok,YES,Slightly worsened,Rarely,NO,Rarely,2 (Slightly addicted),,3,2 hours
+18-24,Female,punjab,Student,Educational or informative content,3-4 hour,Youtube,NO,Slightly worsened,Never,NO,Never,1 (Not addicted at all),,3,Nil
+18-24,Female,KPK,Employed,News and current events,5-6 hour,TikTok,YES,No impact,Occasionally,NO,Occasionally,3 (Moderately addicted),,2,3
+18-24,Female,punjab,Student,"Entertainment (videos, memes, etc.), Educational or informative content",4-Mar,"Instagram, Youtube",YES,No impact,Never,NO,Frequently,3 (Moderately addicted),,5,2-Jan
+18-24,Male,Wah,Student,"Entertainment(videos,memes,etc)",7-9 hour,"Instagram,TikTok,Snapchat",YES,Significantly worsened,Occasionally,NO,Frequently,5(Extremely addicted),More than 5,3,6 hours
+34-54,Male,Lahore,Unemployed,News and current events,3-4 hour,"Youtube ,Facebook",NO,no impact,Never,NO,Never,3(Moderately addicted),3,3,3 hours
+18-24,Male,other,Student,"Entertainment(videos,memes,etc)",1-2 hour,"Instagram, Youtube",NO,no impact,Never,NO,Never,3(Moderately addicted),2,5,1-4 hours
+18-24,Male,Islamabad,Student,"Entertainmnet(videos,memes,etc)",7-9 hour,Snapchat,YES,Significantly worsened,Rarely,YES,Never,2(Slightly addicted),More than 5,3,1-6 hours
+34-54,Male,other,Employed,News and current events,1-2 hour,"Instagram,TikTok,Snapchat",YES,Slightly worsened,Rarely,YES,Rarely,3(Moderately addicted),4,3,2 hours
+18-24,Male,Rawalpindi,Student,Education and Informative content,3-4 hour,"Instagram,Twitter,Snapchat,Youtube",NO,Significantly worsened,Frequently,Prefer not to say,Frequently,3(Moderately addicted),4,5,10 hours
+18-24,Male,KPK,Student,Educational and Informative content,5-6 hour,"Instagram,Youtube ,Facebook",YES,no impact,Frequently,NO,Frequently,3(Moderately addicted),3,3,1 hour
+34-54,Female,KPK,Retired,News and current events,1-2 hour,Facebook,NO,no impact,Never,NO,Never,3(Moderately addicted),2,3,2 hours
+18-Nov,Male,Islamabad,Student,"Entertainment(videos,memes,etc)",3-4 hour,"Instagram,TikTok,Snapchat",NO,Significantly worsened,Never,NO,Never,2(Moderately addicted),3,1,6 hours
